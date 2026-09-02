@@ -6,6 +6,8 @@
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-green?style=for-the-badge\&logo=microsoftexcel)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-150458?style=for-the-badge\&logo=pandas)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd5c01bf-65da-4657-8f87-8c867347f75b" />
+
 ## 📌 Project Overview
 
 This is an **end-to-end Swiggy Food Delivery Data Analytics Project** built using a single dataset and multiple data analytics tools.
@@ -961,9 +963,6 @@ Add your dashboard screenshots here after uploading them to GitHub.
                         │
                         ▼
                 BUSINESS KPIs
-                        │
-                        ▼
-                   POWER BI
                         │
                         ▼
                 FINAL INSIGHTS
