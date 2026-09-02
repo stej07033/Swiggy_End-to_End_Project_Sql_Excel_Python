@@ -96,8 +96,7 @@ The SQL analysis contains **394,802 records** in the analyzed dataset.
 | SQL Server | Database creation and analysis              |
 | T-SQL      | Business queries                            |
 | SSMS       | SQL development                             |
-| Excel      | Pivot tables and dashboard                  |
-| Power BI   | Interactive business dashboard              |
+| Excel      | Pivot tables and dashboard                  |           |
 | GitHub     | Project documentation and version control   |
 
 ---
